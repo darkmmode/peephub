@@ -2,4 +2,4 @@
 peep hub for the peeps revolt server
 
 
-peephub.us.to
+https://peephub.us.to
